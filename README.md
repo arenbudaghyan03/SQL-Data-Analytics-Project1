@@ -1,4 +1,4 @@
-## SQL-EDA Project N1
+## SQL Server -Exploratory Data Analysis /EDA/ Project
 ## Introduction
 
 This project explores sales, customer, and product data using SQL Server.  
@@ -322,3 +322,9 @@ GROUP BY product_name
 
 ORDER BY Total_Revenue ASC;
 ```
+## Conclusion
+
+This project demonstrates how SQL Server can be used to analyze business data effectively.  
+Through exploratory data analysis, key business metrics, and dimension analysis, we gained insights into customer demographics, product hierarchy, and sales performance.  The queries and techniques showcased here provide a strong foundation for more advanced analytics, reporting, and decision-making.  
+Huge thanks to my teacher @DataWithBaraa for the wonderful SQL BootCamp. This project is part of his SQL Ultimate Course (30h).
+[DataWithBaraa GitHub](https://github.com/DataWithBaraa)
