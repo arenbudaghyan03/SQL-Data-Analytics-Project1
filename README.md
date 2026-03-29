@@ -15,10 +15,10 @@ The goal is to understand business performance, customer demographics, and produ
 
 | File | Description |
 |------|-------------|
-| `customers.csv` | Customer dataset |
-| `products.csv` | Product dataset |
-| `orders.csv` | Sales transactions dataset |
-| `sql_first_project.sql` | SQL queries for exploratory data analysis |
+| `dim_customers.csv` | Customer dataset |
+| `dim_products.csv` | Product dataset |
+| `fact_sales.csv` | Sales transactions dataset |
+| `SQL_First_Project.sql` | SQL queries for exploratory data analysis |
 
 Dimension Analysis
 ===================================
