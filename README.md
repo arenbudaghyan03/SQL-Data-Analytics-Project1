@@ -3,7 +3,7 @@
 
 ![dwdwdw](https://github.com/user-attachments/assets/7135de48-b9c5-495c-84bb-d2eec4b36999)
 
-This project explores sales, customer, and product data of a retail sales business using SQL Server.  
+This project explores sales, customer, and product data of a retail sales business using **SQL Server**.  
 The goal is to understand business performance, customer demographics, and product distribution through structured queries and key metrics. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights.** 
 
  **Executive Summary**
@@ -32,7 +32,7 @@ The goal is to understand business performance, customer demographics, and produ
 - **Grouping** (GROUP BY)  
 - **Join and set operations** (JOINs, UNION ALL)
 
-## Project Structure
+## 📂 Project Structure
 
 | File | Description |
 |------|-------------|
@@ -80,7 +80,7 @@ This section focuses on **ranking products based on revenue**, helping to identi
 **Customer Loyalty**: Identified a core group of "Power Users" who contribute disproportionately to total revenue.
 
 
-## Conclusion
+ ## 🏁 Conclusion
 
 This project demonstrates how **SQL Server** can be used to analyze business data effectively.  
 Through exploratory data analysis, key business metrics, and dimension analysis, we gained insights into customer demographics, product hierarchy, and sales performance.  The queries and techniques showcased here provide a **strong foundation for more advanced analytics, reporting, and decision-making**.  
